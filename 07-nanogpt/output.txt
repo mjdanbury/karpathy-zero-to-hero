@@ -1,0 +1,98 @@
+(3.11.7) matthew@Matthews-MacBook-Pro-9 07-nanogpt % python bigram.py
+10.788929 M parameters
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 1.9978, val loss 2.0895
+step 1000: train loss 1.5961, val loss 1.7599
+step 1500: train loss 1.4331, val loss 1.6423
+step 2000: train loss 1.3388, val loss 1.5684
+step 2500: train loss 1.2774, val loss 1.5315
+step 3000: train loss 1.2229, val loss 1.5076
+step 3500: train loss 1.1831, val loss 1.4859
+step 4000: train loss 1.1410, val loss 1.4804
+step 4500: train loss 1.1053, val loss 1.4878
+step 4999: train loss 1.0719, val loss 1.4920
+
+
+EXFORD:
+Who often love, by me, you to smell
+This kind of your lord; Flamellowing haste.
+
+YORK:
+My tremble mases I did love thee by wite. Have me med
+In less lends, to make this rebubels; nay!
+
+RICHARD:
+Their true loveable princes not for the sad too.
+Look for Romeo, in that kill-dam I
+What both your late? To seek the doom woman;
+For she I pray not to ofended you tall troubles.
+I do both
+The father to her scafe with Roman have born
+That kill'd you to haol! I cannot shall knock it.
+
+CATESBY:
+Hast tonguelessnow to straight:
+Thy fortune else do't, by shame's approvet
+Until my gentle pestate, confort,
+Or else should raven rebroar like thee to give.
+
+BRAKENBURY:
+Good look to more arring.
+
+CAMILLO:
+Good my lord, Fortune, I should good unfit. Heaven
+How now willingly proclamate of thy tiger!
+A villamation! go with out of me: away the Tranito,
+And made behind Jewry in a door!
+A blade, my lord, I Clarence!
+What rebels fair bloss, I prither:
+Besea, this is noble barned by Cygham,
+Which are in brattle English crown
+Tybalt should by a subject, at officer,
+When I his o'tmadest sweet Claudio, my lord.
+
+BUCKINGHENRY VI:
+Now, if thou banishment unto makes
+Or two offer?
+
+RUTLAND:
+Wo chide now:
+Here's Romans, if that is't.
+
+KING LEWIS XI:
+Became the queen, or the city of Claudio,
+What curd man a the gods doke and you good?
+
+BUCKINGHAM:
+What, that Clarence?
+
+DUKE VINCENTIO:
+This for his chaste doth that he does.
+
+JULIET:
+Flatter, I will not thine employ: this gifts he enrich,
+
+DUKE VINCENTIO:
+You good worship to the book, you will do
+Conform the princes of your addir shall powers word.
+
+Second Keeper:
+'Twax' between our soldier.
+
+JULIET:
+O, scold, that great you would think me heavy not
+A full to take up.
+
+Provost:
+Well, innocentment:
+Right, here's, may please you good for the queen.
+A custom of possibling and instruct a house!
+I am long-for more trans.
+
+Hlord:
+Bid I well princely farewell, sir; which he
+Were honourable, he's wopen execute.
+
+Lord:
+Has fairly loved befall Hortensio, to
+(3.11.7) matthew@Matthews-MacBook-Pro-9 07-nanogpt %
